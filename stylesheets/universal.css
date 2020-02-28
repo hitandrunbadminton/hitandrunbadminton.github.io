@@ -1,0 +1,28 @@
+.text-center {
+    text-align: center;
+}
+
+.margin-top-8 {
+    margin-top: 8px;
+}
+
+.margin-top-12 {
+    margin-top: 12px;
+}
+
+.margin-top-16 {
+    margin-top: 16px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-24 {
+    margin-top: 24px;
+}
+
+.margin-vert-24 {
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
