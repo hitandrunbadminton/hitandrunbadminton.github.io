@@ -1,6 +1,6 @@
 {
-  "homepage": "http://hitandrunbadminton.github.io/tournament",
-  "name": "tournament",
+  "homepage": "http://hitandrunbadminton.github.io/",
+  "name": "hit-and-run-badminton",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
