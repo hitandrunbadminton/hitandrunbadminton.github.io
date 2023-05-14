@@ -10,12 +10,18 @@ section {
     margin-top: 50px;
 }
 
-thead, tr {
-    text-align: center;
-}
-
 td {
     padding: 5px;
+}
+
+.table td, .table th {
+    padding: 0px !important;
+    margin: 0px !important;
+    font-weight: bold;
+}
+
+.empty_row {
+    height: 1rem;
 }
 
 .text-red {
